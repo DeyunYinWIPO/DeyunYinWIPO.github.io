@@ -1,13 +1,13 @@
 ---
 permalink: /Research-Project/
-title: "Research Project"
+title: "Research Projects"
 author_profile: true
 redirect_from: 
  - /Research-Project/
  - /Research-Project.html
 ---
 
-## As Principal Investigator
+### As Principal Investigator
 
 |      Date       |                           Project                            |
 | :-------------: | :----------------------------------------------------------: |
@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-## As Participant
+### As Participant
 
 |      Date       |                           Project                            |
 | :-------------: | :----------------------------------------------------------: |
