@@ -42,7 +42,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Working papers
 
-- *Georgios TSIACHTSIRAS, **Deyun YIN\***, Ernest MIGUELEZ, Rosina MORENO (2024), **[Trains of Thought: High-Speed Rail and Innovation in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422497), Industry and Innovation**. (Under review, corresponding author).
+- Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2024), **[Trains of Thought: High-Speed Rail and Innovation in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422497), Industry and Innovation**. (Under review, corresponding author).
 - Gema Lax MARTÍNEZ , Helena Saenz de JUANO-I-RIBES , **Deyun YIN**, Bruno Le FEUVRE, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **[Expanding the World Gender-Name Dictionary: WGND 2.0](https://www.wipo.int/publications/en/details.jsp?id=4554)** WIPO working paper series 64.
 - Ernest MIGUELEZ, Julio RAFFO, Christian CHACUA, Massimiliano CODA-ZABETTA, **Deyun YIN***, Francesco LISSONI, Gianluca TARASCONI (2019), **[Tied In: The Global Network of Local Innovation](https://www.wipo.int/publications/en/details.jsp?id=4472&plang=EN)**. WIPO Working Paper Series 58. (* is corresponding author) 
 - **Deyun YIN**, Julio RAFFO, Ernest MIGUELEZ, Massimiliano CODA-ZABETTA, Christian CHACUA, Francesco LISSONI, Gianluca TARASCONI, **Identification and Analysis of Innovation Clusters based on Global Geocoding Data**, GEOINNO 2020. (is corresponding author)
