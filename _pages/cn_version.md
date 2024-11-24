@@ -7,7 +7,7 @@ redirect_from:
  - /cn_version.html
 ---
 
-## 基本信息
+## 尹德云
 
 ### 个人简介
 
