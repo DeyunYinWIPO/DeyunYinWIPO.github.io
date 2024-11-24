@@ -55,9 +55,9 @@ redirect_from:
 
 ### 论文
 
-- Jingjing Jiang, **Deyun Yin\***, Zhuoluo Sun, Bin Ye, Nan Zhou (2024), 全球甲烷技术创新趋势及其与甲烷排放日益增大的差距，***Nature Climate Change\***, 14, 393–401 (IF=31.4, Nature大子刊，唯一通讯作者) 
+- Jingjing Jiang, **Deyun Yin**, Zhuoluo Sun, Bin Ye, Nan Zhou (2024), 全球甲烷技术创新趋势及其与甲烷排放日益增大的差距，**Nature Climate Change**, 14, 393–401 (IF=31.4, Nature大子刊，唯一通讯作者) 
 
-  受到Nature官方报道：Jingjing JIANG & **Deyun YIN\*** (2024), Trends in the global invention and international diffusion of methane abatement technologies, Nature Portfolio
+  受到Nature官方报道：Jingjing JIANG & **Deyun YIN** (2024), Trends in the global invention and international diffusion of methane abatement technologies, Nature Portfolio
 
 - **Deyun Yin,** Zhao Wu, Sotaro Shibayama (2023) , **科学研究中的风险测度，Journal Of Informetrics** **,** 17(3).  (IF=3.4, JCR Q1)  
 
@@ -65,15 +65,15 @@ redirect_from:
 
 - **Deyun Yin**,  Wu Zhao, Kazuki Yokota, Kuniko Matsumoto, Sotaro Shibayama (2023),**识别科学的要素新颖性，Plos One**.18(6). (IF=2.9, JCR Q1)
 
-- Sotaro Shibayama, **Deyun Yin**, & Kunico Matsumoto. (2021). **基于词嵌入的科学新颖性测量. Plos One**, 16(7). (IF=2.9, JCR Q1)***
+- Sotaro Shibayama, **Deyun Yin**, & Kunico Matsumoto. (2021). **基于词嵌入的科学新颖性测量. Plos One**, 16(7). (IF=2.9, JCR Q1)
 
-- **Deyun Yin,**Kazuyuki Motohashi, Jianwei Dang，**中国专利发明者消歧（1985-2016）**（英文），**Scientometrics**, (*IF: 3.5, JCR Q1) 
+- **Deyun Yin,**Kazuyuki Motohashi, Jianwei Dang，**中国专利发明者消歧（1985-2016）**（英文），**Scientometrics**, (IF: 3.5, JCR Q1) 
 
-  该文作为全球首篇采用机器学习方法系统对中国专利发明者进行消歧的研究，针对2018年版CNIPA中国专利全库650万专利中的180万姓名进行消歧，划分了中国、日本和海外姓名，成功识别出400万中国发明者并做了分析，在美国国家经济研究所（NBER）和美国专利与商标局汇报。**
+  该文作为全球首篇采用机器学习方法系统对中国专利发明者进行消歧的研究，针对2018年版CNIPA中国专利全库650万专利中的180万姓名进行消歧，划分了中国、日本和海外姓名，成功识别出400万中国发明者并做了分析，在美国国家经济研究所（NBER）和美国专利与商标局汇报。
 
-- Charles ZHANG，**尹德云**，元桥一之，**中国互联网公司的创新战略与技术赶超：来自专利文本挖掘的证据**（英文）, ***PICMET\*** 2019 (EI检索, *为通讯作者)*
+- Charles ZHANG，**尹德云**，元桥一之，**中国互联网公司的创新战略与技术赶超：来自专利文本挖掘的证据**（英文）, **PICMET** 2019 (EI检索, *为通讯作者)*
 
-- Georgios Tsiachtsiras, **Deyun Yin\*,** Ernest Miguelez, Rosina Moreno (2024), 思想的列车：中国的高速铁路与创新, ***Industry & Innovation\***. (在审)
+- Georgios Tsiachtsiras, **Deyun Yin\*,** Ernest Miguelez, Rosina Moreno (2024), 思想的列车：中国的高速铁路与创新, **Industry & Innovation**. (在审)
 
 ### 著作
 
