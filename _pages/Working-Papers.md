@@ -7,12 +7,8 @@ redirect_from:
   - /Working-Papers.html
 ---
 
-## Working-in-progress
+## Data & Code
 
-- **Deyun YIN**, Jie TANG, Tao JIANG, Zheng ZENG, Tong YIN, Zhao WU, **Measuring the Quality of Chinese Patents: Has China Realized Indigenous Innovation?**
-- **Deyun YIN**, Zhao Wu, Tao Jiang. **Farewell to Counting the Number: A Complex Indicator for Measuring and Assessing Chinese Patents’ Quality.**
-- Julio RAFFO, **Deyun YIN** & Alica DALY, **Impact of Artificial Intelligence on innovation: Evidence from Robotics.** WIPO Working Paper Series.
-- **Deyun YIN**, Ernest MIGUELEZ. **Learn-by-hiring: Knowledge Sourcing of Domestic Firms in Emerging Markets** (Data processing finished)
-- **Deyun YIN,** Julio RAFFO, **Unravelling the gender unbalance in innovation** 
-
-
+- Jingjing JIANG, **Deyun YIN\***, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), [**Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://github.com/DeyunYinWIPO/global_methane)**, ***Nature Climate Change\****
+- **Deyun YIN**, Zhao WU, Sotaro SHIBAYAMA (2023), **[Measuring Risk in Science]**(https://github.com/DeyunYinWIPO/science_risk). ***Journal of Informetrics**
+- **Deyun YIN**, Zhao WU, Kazuki YOKOTA, Kuniko MATSUMOTO, Sotaro SHIBAYAMA (2023), [**Identify Novel Elements of Knowledge with Word Embedding](https://github.com/DeyunYinWIPO/Novelty)**. ***PLOS ONE\***
