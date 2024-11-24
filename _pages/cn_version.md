@@ -83,6 +83,14 @@ redirect_from:
 - Carsten Fink, Julio  Raffo, Intan Hamdan-Livramento, Maryam Zehtabchi, **Deyun Yin**     (2019). **《世界知识产权报告2019：创新的地理格局：区域热点，全球网络》**. 世界知识产权组织，日内瓦. （被翻译为联合国六国语言）
 - Massimiliano  Coda-Zabetta, Christian Chacua, Francesco Lissoni, Ernest Miguelez, Julio Raffo, **Deyun Yin** (2022). **全球集群创新网络中的国际合作，资本和移民，《变动世界中的跨国创新：参与者，区域和政策》**，牛津大学出版社。（英文）
 
+### 工作论文
+
+- Gema Lax Martínez, Helena Saenz de Juano-i-Ribes, **Deyun Yin**, Bruno Le Feuvre, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **世界（发明者）性别词典WGND 2.0**. WIPO working paper series 64. 
+- Ernest Miguelez, Julio Raffo, Christian Chacua, Massimiliano Coda-Zabetta, **Deyun Yin,** Francesco Lissoni, Gianluca Tarasconi (2019), **连接：知识的全球化、区域创新热点与全球创新网络**（英文），世界知识产权组织工作论文系列。
+- 尹德云和元桥一之(2018)，**基于机器学习的中国发明者姓名消歧及其地理流动（1985-2016）**（英文），经济产业研究所工作论文系列，18-E-018, RIETI, 2018/03. 
+- 尹德云和元桥一之(2019)，**中国发明者的流动及其对区域经济的影响**（英文），东京大学博士论文数据库，2018.08  创新研究所暑期论坛上报告（一桥大学）
+- 尹德云和元桥一之(2019)，**中国技术人才的组织间流动**（英文），东京大学博士论文数据库， 2018.11  中国创新系统2018论坛上报告（同济大学）
+
 
 
 ##   教学

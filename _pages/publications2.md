@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   The first paper disambiguates full CNIPA Inventor databases with large-scale training and testing data and high accuracy. As result, 4 million unique inventors are identified from 1.8 million Chinese names. 
 
-- *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (***PICMET**), 1–14. (corresponding author)
+- *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (PICMET)**, 1–14. (corresponding author)
 
 
 
