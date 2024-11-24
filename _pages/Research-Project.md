@@ -1,10 +1,10 @@
 ---
-permalink: /project/
+permalink: /Research-Project/
 title: "Research Projects"
 author_profile: true
 redirect_from: 
- - /project/
- - /project.html
+ - /Research-Project/
+ - /Research-Project.html
 ---
 
 ### As Principal Investigator
