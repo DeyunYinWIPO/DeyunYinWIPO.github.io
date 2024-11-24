@@ -7,13 +7,21 @@ redirect_from:
  - /about.html
 ---
 
+## Deyun Yin
+
+- Associate Professor 
+- School of Economics and Management, Harbin Institute of Technology, Shenzhen (HITSZ)
+- Keywords: IP Data Mining, Innovation Economics and Management, STI Policy
+
+### Short Bio
+
 Dr. Yin Deyun an associate professor in innovation economics and intellectual property (IP) data mining at Harbin Institute of Technology, Shenzhen (HITSZ). She graduated from **the University of Tokyo** at March, 2019. After graduation, she has been working as a research fellow for the **World Intellectual Property Organization (WIPO)**, a specialized agency of the United Nations. Dr. Yin also has rich research and working experience in government-affiliated research organizations such as Research Institute of Economy, Trade, and Industry (RIETI) as well as National Institute of Science and Technology Policy (NISTEP). Now she serves as a senior guest fellow at the University of Tokyo. Some of her papers have been published on international journals such as **Nature Climate Change, Journal of Informetrics, Scientometrics** etc. When working as a fellow WIPO, she also contributed to the release of the **World Intellectual Property Report (WIPR) 2019, WIPR 2022** and led one **WIPO development study – Innovation ecosystem and catch-up in developing countries: Evidence from Shenzhen**.
 
-Research focuses: 
+### Research Interests 
 
 - **IP Data Mining**: studying innovation with large-scale intellectual property data, especially the application of artificial intelligence, machine learning, social network analysis, green and climate change patent analysis.
-- **Innovation Economics & Management**: Economic geography, innovation clusters, regional innovation ecosystem, global innovation network,  inventor mobility in China and the world, technology transfer.
-- Science, technology, and innovation (STI) policy: IP and growth,   
+- **Innovation Economics & Management**: Economic geography, innovation clusters, global innovation network,  inventor mobility in China and the world, technology transfer.
+- **Science, technology, and innovation (STI) policy**: IP and growth, regional innovation ecosystem, technological catch-up  
 
 ![Research](F:\Dropbox\Github\Yin_Porject\YinDeyun\images\research.png)
 
