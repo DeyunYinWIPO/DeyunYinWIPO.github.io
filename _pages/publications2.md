@@ -17,9 +17,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - **Deyun YIN**, Zhao WU, Sotaro SHIBAYAMA (2023), **[Measuring Risk in Science. Journal of Informetrics](https://www.sciencedirect.com/science/article/pii/S1751157723000512)**. 17(3). 
 - **Deyun YIN**, Zhao WU, Kazuki YOKOTA, Kuniko MATSUMOTO, Sotaro SHIBAYAMA (2023), **[Identify Novel Elements of Knowledge with Word Embedding](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284567). PLOS ONE**. 18(6).
-- Sotaro SHIBAYAMA, **Deyun YIN**, Kuniko MATSUMOTO (2021). **[Measuring novelty in science with word embedding](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254034)**. PLOS ONE, 16(7).
-- **Deyun YIN**, Kazuyuki MOTOHASHI, Jianwei DANG (2020). **[Large-scale Name Disambiguation of Chinese Patent Inventors (1985-2016)](https://link.springer.com/article/10.1007/S11192-019-03310-W)**, Scientometrics**, 122, 765–790
-- *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/)** 2019 Portland International Conference on Management of Engineering and Technology (***PICMET\***), 1–14. (corresponding author)
+- Sotaro SHIBAYAMA, **Deyun YIN**, Kuniko MATSUMOTO (2021). **[Measuring novelty in science with word embedding](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254034) PLOS ONE**, 16(7).
+- **Deyun YIN**, Kazuyuki MOTOHASHI, Jianwei DANG (2020). **[Large-scale Name Disambiguation of Chinese Patent Inventors (1985-2016)](https://link.springer.com/article/10.1007/S11192-019-03310-W), Scientometrics**, 122, 765–790
+- *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (***PICMET**), 1–14. (corresponding author)
 
 
 
