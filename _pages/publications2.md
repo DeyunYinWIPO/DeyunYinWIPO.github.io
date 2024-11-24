@@ -9,7 +9,7 @@ redirect_from:
 
 ## Journal & Conference Paper
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=0GW38KwAAAAJ).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=0GW38KwAAAAJ). <h2>
 
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://www.nature.com/articles/s41558-024-01947-x)**, ***Nature Climate Change***, 14, 393–401 (corresponding author).
 
@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   The first paper disambiguates full CNIPA Inventor databases with large-scale training and testing data and high accuracy. As result, 4 million unique inventors are identified from 1.8 million Chinese names. 
 
-- *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (PICMET)**, 1–14. (corresponding author)
+- *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (PICMET)**, 1–14. (corresponding author)</h2>
 
 ## Books & Reports
 
@@ -43,9 +43,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Working papers
 
 - Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2024), **[Trains of Thought: High-Speed Rail and Innovation in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422497), Industry and Innovation**. (Under review, corresponding author).
-- Gema Lax MARTÍNEZ , Helena Saenz de JUANO-I-RIBES , **Deyun YIN**, Bruno Le FEUVRE, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **[Expanding the World Gender-Name Dictionary: WGND 2.0](https://www.wipo.int/publications/en/details.jsp?id=4554)** WIPO working paper series 64.
-- Ernest MIGUELEZ, Julio RAFFO, Christian CHACUA, Massimiliano CODA-ZABETTA, **Deyun YIN***, Francesco LISSONI, Gianluca TARASCONI (2019), **[Tied In: The Global Network of Local Innovation](https://www.wipo.int/publications/en/details.jsp?id=4472&plang=EN)**. WIPO Working Paper Series 58. (* is corresponding author) 
+- Gema Lax MARTÍNEZ , Helena Saenz de JUANO-I-RIBES , **Deyun YIN**, Bruno Le FEUVRE, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **[Expanding the World Gender-Name Dictionary: WGND 2.0](https://www.wipo.int/publications/en/details.jsp?id=4554), WIPO working paper series 64**.
+- Ernest MIGUELEZ, Julio RAFFO, Christian CHACUA, Massimiliano CODA-ZABETTA, **Deyun YIN***, Francesco LISSONI, Gianluca TARASCONI (2019), **[Tied In: The Global Network of Local Innovation](https://www.wipo.int/publications/en/details.jsp?id=4472&plang=EN). WIPO Working Paper Series 58**. (corresponding author) 
 - **Deyun YIN**, Julio RAFFO, Ernest MIGUELEZ, Massimiliano CODA-ZABETTA, Christian CHACUA, Francesco LISSONI, Gianluca TARASCONI, **Identification and Analysis of Innovation Clusters based on Global Geocoding Data**, GEOINNO 2020. (is corresponding author)
-- **Deyun YIN**, Kazuyuki MOTOHASHI. **[Inventor Name Disambiguation with Gradient Boosting Decision Tree and Inventor Mobility in China (1985-2016)](https://www.rieti.go.jp/jp/publications/dp/18e018.pdf)**, RIETI Discussion Paper, 18-E-018, RIETI, 2018/03
+- **Deyun YIN**, Kazuyuki MOTOHASHI. **[Inventor Name Disambiguation with Gradient Boosting Decision Tree and Inventor Mobility in China (1985-2016)](https://www.rieti.go.jp/jp/publications/dp/18e018.pdf), RIETI Discussion Paper**, 18-E-018, RIETI, 2018/03
 - **Deyun YIN**, Kazuyuki MOTOHASHI (2019). **Stay or leave? Mobility of Chinese knowledge workers under context**
 - **Deyun YIN**, Kazuyuki MOTOHASHI (2019). **Patterns of Inventor Mobility and its Impact on Urban Innovation** 
