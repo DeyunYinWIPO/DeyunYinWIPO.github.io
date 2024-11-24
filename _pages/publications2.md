@@ -29,8 +29,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - *Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (PICMET)**, 1–14. (corresponding author)
 
-
-
 ## Books & Reports
 
 - Jie Tang, **Deyun Yin,** Xin Dai (2023). **[Shenzhen’s High-Quality Development In The New Era](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=10199540&fromSubID=).** Beijing: China Social Sciences Press. 
