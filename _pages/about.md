@@ -15,6 +15,9 @@ Research focuses:
 - Economic geography 
 - Science, technology, and innovation (STI) policy 
 
+![Research](F:\Dropbox\Github\Yin_Porject\YinDeyun\images\research.png)
+
+
 
 
 Working Experiences
