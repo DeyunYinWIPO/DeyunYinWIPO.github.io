@@ -23,7 +23,7 @@ Dr. Yin Deyun an associate professor in innovation economics and intellectual pr
 - **Innovation Economics & Management**: Economic geography, innovation clusters, global innovation network,  inventor mobility in China and the world, technology transfer.
 - **Science, technology, and innovation (STI) policy**: IP and growth, regional innovation ecosystem, technological catch-up  
 
-![Research](../images/research.png)
+![research](../images/research.png)
 
 ## Working & Education Background
 
