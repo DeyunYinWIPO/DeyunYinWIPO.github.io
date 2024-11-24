@@ -23,13 +23,12 @@ Dr. Yin Deyun an associate professor in innovation economics and intellectual pr
 - **Innovation Economics & Management**: Economic geography, innovation clusters, global innovation network,  inventor mobility in China and the world, technology transfer.
 - **Science, technology, and innovation (STI) policy**: IP and growth, regional innovation ecosystem, technological catch-up  
 
-![Research](F:\Dropbox\Github\Yin_Porject\YinDeyun\images\research.png)
+![Research](../images/research.png)
+
+## Working & Education Background
 
 
-
-
-Working Experiences
-------
+### Working Experiences
 
 |      Year       |                         Institution                          |      Position       |
 | :-------------: | :----------------------------------------------------------: | :-----------------: |
@@ -42,8 +41,7 @@ Working Experiences
 
 
 
-Education Experiences
-------
+### Education Background
 
 |      Date       |                   Academic Degree                    |     University      |
 | :-------------: | :--------------------------------------------------: | :-----------------: |
@@ -53,18 +51,23 @@ Education Experiences
 
 
 
-## Academic Services
+## Public Services
 
-|   Date   |                             Role                             |
+### Academic services
+
+|   Time   |                             Role                             |
+| :------: | :----------------------------------------------------------: |
+| 2018.11~ | Referee for *Research Policy, TSFC, Scientometric*s, *Regional Studies,* *AOM Annual Conference*, etc. |
+| 2021.11  | Chair of the Intellectual Property Subforum <br>at the 2021 China Management Annual Conference. |
+| 2020.01~ | Co-organizer of GEOINNO 2020’s special session: <br>Big data, machine learning and the challenge of the geography of innovation |
+| 2019.12~ | Founding Member of the Expert Panel for the NBER Innovation Information Initiative |
+
+### Consulting services
+
+|   Time   |                             Role                             |
 | :------: | :----------------------------------------------------------: |
 | 2024.02~ | Expert for the "World Bank Global Business Environment and Intellectual Property" Project, China National Intellectual Property Administration (CNIPA) |
 | 2023.08~ | Expert for the Guangdong Provincial Administration <br>for Market Regulation (Intellectual Property Office) |
 | 2022.05~ | Intellectual Property Expert for Shenzhen and Project Review Expert <br>for the Shenzhen Science and Technology Innovation Commission |
 | 2021.07~ | Overseas Rights Assistance Expert <br>for the China (Shenzhen) Intellectual Property Protection Center |
-| 2021.11  | Chair of the Intellectual Property Subforum <br>at the 2021 China Management Annual Conference. |
-| 2021.01  | Chair of the Machine Learning and Economic Geography Subforum <br>at the Geography of Innovation (GEOINNO 2020) Conference in Norway |
-| 2020.09  | Organizer of the special session "Gender, Intellectual Property, and Innovation" <br>at the European Policy for Intellectual Property (EPIP) 2020 Conference |
-| 2020.01~ | Co-organizer of GEOINNO 2020’s special session: <br>Big data, machine learning and the challenge of the geography of innovation |
-| 2019.12~ | Founding Member of the Expert Panel for the NBER Innovation Information Initiative |
-| 2018.11~ | Referee for *Research Policy, TSFC, Scientometric*s, *Regional Studies,* *AOM Annual Conference*, etc. |
 
