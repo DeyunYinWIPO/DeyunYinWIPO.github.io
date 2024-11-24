@@ -1,6 +1,6 @@
 ---
-permalink: /data-code/
-title: "Working Papers"
+permalink: /Data-Code/
+title: "Data and Code"
 author_profile: true
 redirect_from: 
   - /Data-Code/

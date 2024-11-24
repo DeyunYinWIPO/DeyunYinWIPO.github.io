@@ -3,8 +3,8 @@ permalink: /presentations/
 title: "Conference Presentations"
 author_profile: true
 redirect_from: 
- - /Conference-Presentations/
- - /Conference-Presentations.html
+ - /presentations/
+ - /presentations.html
 ---
 
 |  Date   |         Location          |                          Organizer                           |                            Event                             |

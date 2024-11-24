@@ -9,13 +9,13 @@ main:
      url: /publications2/
 
    - title: "Data and Code"
-     url: /data-code/
+     url: /Data-Code/
 
    - title: "Research Project"
      url: /project/
      
    - title: "Conference Presentations"
-     url: /presentations/    
+     url: /Presentations/    
 
    - title: "Teaching"
      url: /teaching2/
