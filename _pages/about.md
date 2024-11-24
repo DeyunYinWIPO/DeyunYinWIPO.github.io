@@ -7,7 +7,7 @@ redirect_from:
  - /about.html
 ---
 
-Dr. Yin Deyun an associate professor in innovation economics and intellectual property (IP) data mining at Harbin Institute of Technology, Shenzhen (HITSZ). I graduated from the University of Tokyo at March, 2019. I have rich research and working experience in Japanese government-affiliated research organizations such as Research Institute of Economy, Trade, and Industry (RIETI) as well as National Institute of Science and Technology Policy (NISTEP). She also serves as a senior guest fellow at the University of Tokyo. Some of her papers have been published on international journals such as **Nature Climate Change, Journal of Informetrics, Scientometrics** etc. When working as a fellow WIPO, she also contributed to the release of the **World Intellectual Property Report (WIPR) 2019, WIPR 2022 and led one WIPO development study** – *Innovation ecosystem and catch-up in developing countries: Evidence from Shenzhen*.
+Dr. Yin Deyun an associate professor in innovation economics and intellectual property (IP) data mining at Harbin Institute of Technology, Shenzhen (HITSZ). She graduated from **the University of Tokyo** at March, 2019. After graduation, she has been working as a research fellow for the **World Intellectual Property Organization (WIPO)**, a specialized agency of the United Nations. Dr. Yin also has rich research and working experience in government-affiliated research organizations such as Research Institute of Economy, Trade, and Industry (RIETI) as well as National Institute of Science and Technology Policy (NISTEP). Now she serves as a senior guest fellow at the University of Tokyo. Some of her papers have been published on international journals such as **Nature Climate Change, Journal of Informetrics, Scientometrics** etc. When working as a fellow WIPO, she also contributed to the release of the **World Intellectual Property Report (WIPR) 2019, WIPR 2022** and led one **WIPO development study – Innovation ecosystem and catch-up in developing countries: Evidence from Shenzhen**.
 
 Research focuses: 
 
@@ -41,7 +41,7 @@ Education Experiences
 | :-------------: | :--------------------------------------------------: | :-----------------: |
 | 2016.04~2019.03 | **Ph.D.** Technology Management for Innovation (TMI) | University of Tokyo |
 | 2011.09~2014.06 |   **M.A.** History and Philosophy of Science (HPS)   |  Peking University  |
-| 2005.09~2010.07 |      **B.A.** International Class of Philosophy      |  Wuhan University   |
+| 2005.09~2010.07 |                 **B.A.** Philosophy                  |  Wuhan University   |
 
 
 
