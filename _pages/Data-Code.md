@@ -37,7 +37,7 @@ redirect_from:
 
 ### Academic Paper Databases
 
-- ** WOS Paper Database**
+- **WOS Paper Database**
   - **WOS Geocoding Database**
   - **WOS Paper Word Embedding Model Database**
   - **WOS Paper Indicator Database**, including key indicators such as:

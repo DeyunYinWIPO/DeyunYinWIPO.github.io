@@ -132,7 +132,7 @@ redirect_from:
     - 论文新颖性Novelty
     - 论文影响力 Impact
     - 论文和项目研发风险 Risk
-    - Others...(to be released)
+    - 其他。。。（稍后发布）
 
 数据库资源访问和合作请联系邮件：yindeyunut@gmail.com
 
