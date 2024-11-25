@@ -94,15 +94,15 @@ redirect_from:
 - 尹德云和元桥一之(2019)，**中国发明者的流动及其对区域经济的影响**（英文），东京大学博士论文数据库，2018.08  创新研究所暑期论坛上报告（一桥大学）
 - 尹德云和元桥一之(2019)，**中国技术人才的组织间流动**（英文），东京大学博士论文数据库， 2018.11  中国创新系统2018论坛上报告（同济大学）
 
-### 数据库和代码资源
+## 数据库和代码资源
 
-#### 代码
+### 代码
 
 - **[全球甲烷专利筛选与分析](https://github.com/DeyunYinWIPO/global_methane), Nature Climate Change**, 2024
 - **[基于词向量的论文和专利原创性计算代码](https://github.com/DeyunYinWIPO/Novelty). PLOS ONE**，2023
 - **[基于词嵌入模型和SVM的科研风险度量](https://github.com/DeyunYinWIPO/science_risk). Journal of Informetrics**，2023
 
-#### 专利数据库
+### 专利数据库
 
 - 全球专利数据库
   - 扩展版PATSTAT全球专利数据库
@@ -121,10 +121,11 @@ redirect_from:
   - 日本JPO专利局数据库
     - 日本专利地址信息数据库
     - 日本专利发明人消歧数据库
+  - Others 
 
-#### 科研论文数据库
+### 科研论文数据库
 
-- WOS全样本数据库
+- WOS数据库
   - WOS 地理信息编码（Geocoding）数据库
   - WOS 论文词嵌入(Word Embedding)模型数据库
   - WOS 论文指标数据库，核心指标包括

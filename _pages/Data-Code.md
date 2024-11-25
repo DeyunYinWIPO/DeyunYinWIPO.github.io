@@ -7,9 +7,9 @@ redirect_from:
   - /Data-Code.html
 ---
 
-## Data & Code
+# Data & Code
 
-### Code
+## Code
 
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://github.com/DeyunYinWIPO/global_methane), Nature Climate Change**
 - **Deyun YIN**, Zhao WU, Sotaro SHIBAYAMA (2023), **[Measuring Risk in Science](https://github.com/DeyunYinWIPO/science_risk). Journal of Informetrics**
@@ -17,9 +17,9 @@ redirect_from:
 
 
 
-### Databases
+## Databases
 
-#### Global Patent Databases
+### Global Patent Databases
 
 - **Global Patent Database**
   - **Expanded PATSTAT Global Patent Database**
@@ -35,9 +35,9 @@ redirect_from:
     - CNIPA Patent Quality Database
   - **Enhanced Japanese JPO Patent Office Database**
 
-#### Academic Paper Databases
+### Academic Paper Databases
 
-- **Full-Sample WOS Database**
+- ** WOS Paper Database**
   - **WOS Geocoding Database**
   - **WOS Paper Word Embedding Model Database**
   - **WOS Paper Indicator Database**, including key indicators such as:
@@ -46,6 +46,6 @@ redirect_from:
     - **Risk**: R&D risks associated with the paper and projects.
     - **Others**: (to be released)
 
-#### Access and Collaboration
+### Access and Collaboration
 
 For access to database resources or collaboration inquiries, please contact via email: **yindeyunut@gmail.com**
