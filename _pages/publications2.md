@@ -41,3 +41,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Deyun YIN**, Kazuyuki MOTOHASHI. **[Inventor Name Disambiguation with Gradient Boosting Decision Tree and Inventor Mobility in China (1985-2016)](https://www.rieti.go.jp/jp/publications/dp/18e018.pdf), RIETI Discussion Paper**, 18-E-018, RIETI, 2018/03
 - **Deyun YIN**, Kazuyuki MOTOHASHI (2019). **Stay or leave? Mobility of Chinese knowledge workers under context**
 - **Deyun YIN**, Kazuyuki MOTOHASHI (2019). **Patterns of Inventor Mobility and its Impact on Urban Innovation** 
+
+
+
+## Reports
+
+- China's Blue Innovation in Cities: analysis based on large-scale patent data  
+- Analysis of Shenzhen's R&D inputs-outputs in recent ten years 
+- Organizational and Geographical Mobility of Chinese Inventors 1985-2020
