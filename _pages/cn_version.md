@@ -113,8 +113,9 @@ redirect_from:
 ### 代码
 
 - **[全球甲烷专利筛选与分析](https://github.com/DeyunYinWIPO/global_methane), Nature Climate Change**, 2024
-- **[基于词向量的论文和专利原创性计算代码](https://github.com/DeyunYinWIPO/Novelty). PLOS ONE**，2023
+- **基于词向量的论文和专利原创性计算代码. PLOS ONE**，2023, forthcoming
 - **[基于词嵌入模型和SVM的科研风险度量](https://github.com/DeyunYinWIPO/science_risk). Journal of Informetrics**，2023
+- **[基于词向量的论文和专利原创性计算代码](https://github.com/DeyunYinWIPO/Novelty). PLOS ONE**，2021
 
 ### 专利数据库
 

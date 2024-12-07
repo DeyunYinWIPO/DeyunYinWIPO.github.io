@@ -13,7 +13,8 @@ redirect_from:
 
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://github.com/DeyunYinWIPO/global_methane), Nature Climate Change**
 - **Deyun YIN**, Zhao WU, Sotaro SHIBAYAMA (2023), **[Measuring Risk in Science](https://github.com/DeyunYinWIPO/science_risk). Journal of Informetrics**
-- **Deyun YIN**, Zhao WU, Kazuki YOKOTA, Kuniko MATSUMOTO, Sotaro SHIBAYAMA (2023), **[Identify Novel Elements of Knowledge with Word Embedding](https://github.com/DeyunYinWIPO/Novelty). PLOS ONE**
+- Sotaro SHIBAYAMA, **Deyun YIN**, Kuniko MATSUMOTO (2021). **[Measuring novelty in science with word embedding](https://github.com/DeyunYinWIPO/Novelty). PLOS ONE**
+- **Deyun YIN**, Kazuyuki MOTOHASHI, Jianwei DANG (2020). **Large-scale Name Disambiguation of Chinese Patent Inventors (1985-2016), Scientometrics**, 122, 765–790. Forthcoming 
 
 
 
