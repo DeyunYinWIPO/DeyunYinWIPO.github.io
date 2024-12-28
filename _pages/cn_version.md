@@ -225,7 +225,7 @@ redirect_from:
 | :------: | :----------------------------------------------------------: |
 | 2021.11  |           担任中国管理学年会2021知识产权分会场主席           |
 | 2021.01  | 担任在挪威举行的创新经济地理（GEOINNO 2020）机器学习与经济地理分论坛主席 |
-| 2018.11~ | Research Policy, Regional Studies, TSFC, Scientometrics等杂志审稿人 |
+| 2018.11~ | Research Policy, China Economic Review, Scientometrics, Regional Studies, Technology Forcasting and Social Change, Scientometrics等杂志审稿人 |
 
 ###  社会培训
 
