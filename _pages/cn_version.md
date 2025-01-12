@@ -116,13 +116,14 @@ redirect_from:
 - **[基于词向量的论文和专利原创性计算代码](https://github.com/DeyunYinWIPO/Novelty_Science_Text). PLOS ONE**，2023
 - **[基于词嵌入模型和SVM的科研风险度量](https://github.com/DeyunYinWIPO/science_risk). Journal of Informetrics**，2023
 - **[基于词向量的论文和专利原创性计算代码](https://github.com/DeyunYinWIPO/Novelty). PLOS ONE**，2021
+- [Genderit](https://github.com/IES-platform/r4r_gender): 根据姓名识别全球性别的算法，基于WIPO的[World Gender-Name Dictionary (WGND)全球姓名-性别词典 ](https://github.com/IES-platform/r4r_gender/blob/main/wgnd/README.md): 该词典囊括了**全球195个国家**的**2500万**以上的姓名-性别记录。. 
 
 ### 专利数据库
 
 - 全球专利数据库
   - 扩展版PATSTAT全球专利数据库
     - 根据专利家族和CNIPA、WIPO、JPO、USPTO等专利局原始数据填充了缺失信息完整版PATSTAT
-    - 全球发明者姓名-性别词典WGND 2.0
+    - [全球发明者姓名-性别词典WGND 2.0]](https://github.com/IES-platform/r4r_gender/blob/main/wgnd/README.md)
   - 全球PCT专利数据库
     - PCT专利申请人-发明者地理信息数据库
     - PCT专利发明者消歧数据库
@@ -135,6 +136,7 @@ redirect_from:
     - 中国专利质量数据库
   - 日本JPO专利局数据库
     - 日本专利地址信息数据库
+    - 日本专利地理信息编码数据库(最新上线)
     - 日本专利发明人消歧数据库
   - Others 
 
