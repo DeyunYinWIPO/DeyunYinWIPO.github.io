@@ -61,10 +61,11 @@ redirect_from:
 
   - 受到Nature官方报道：Jingjing JIANG & **Deyun YIN** (2024), Trends in the global invention and international diffusion of methane abatement technologies, Nature Portfolio
 
+- Xin DAI, Jie TANG, **Deyun YIN** (2025), 科学与城市：中国的科学知识对区域技术创新的贡献. **China Economic Review**. Vol 93. 102461.
+
 - **Deyun Yin,** Zhao Wu, Sotaro Shibayama (2023) , **科学研究中的风险测度，Journal Of Informetrics** **,** 17(3).  (IF=3.4, JCR Q1)  
-
   - 全球首篇利用机器学习和文本挖掘方法预测科研风险的文章。
-
+  
 - **Deyun Yin**,  Wu Zhao, Kazuki Yokota, Kuniko Matsumoto, Sotaro Shibayama (2023),**识别科学的要素新颖性，Plos One**.18(6). (IF=2.9, JCR Q1)
 
 - Sotaro Shibayama, **Deyun Yin**, & Kunico Matsumoto. (2021). **基于词嵌入的科学新颖性测量. Plos One**, 16(7). (IF=2.9, JCR Q1)
