@@ -11,9 +11,10 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=0GW38KwAAAAJ). 
 
+- Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2025), **[Trains of Thought: High-Speed Rail and Innovation in China](https://www.tandfonline.com/doi/full/10.1080/13662716.2025.2541679)**, ***Industry and Innovation**. 2541679.
+- Xin DAI, Jie TANG, **Deyun YIN** (2025), [**Science and City: Exploring science’s contribution to China’s urban technological innovation**](https://www.sciencedirect.com/science/article/pii/S1043951X25001191). **China Economic Review**. Vol 93. 102461.
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://www.nature.com/articles/s41558-024-01947-x)**, ***Nature Climate Change***, 14, 393–401 (corresponding author). [Code](https://github.com/DeyunYinWIPO/global_methane)
   - Reported by Nature Briefing: Jingjing JIANG & **Deyun YIN** (2024), **[Trends in the global invention and international diffusion of methane abatement technologies](https://www.nature.com/articles/s41558-024-01948-w)**, Nature Portfolio. 
-- Xin DAI, Jie TANG, **Deyun YIN** (2025), [**Science and City: Exploring science’s contribution to China’s urban technological innovation**](https://www.sciencedirect.com/science/article/pii/S1043951X25001191). **China Economic Review**. Vol 93. 102461.
 - **Deyun YIN**, Zhao WU, Sotaro SHIBAYAMA (2023), **[Measuring Risk in Science. Journal of Informetrics](https://www.sciencedirect.com/science/article/pii/S1751157723000512)**. 17(3).  [Code](https://github.com/DeyunYinWIPO/science_risk)
   - The first paper measuring and predicating scientific risk with text information and machine learning algorithm.
 - **Deyun YIN**, Zhao WU, Kazuki YOKOTA, Kuniko MATSUMOTO, Sotaro SHIBAYAMA (2023), **[Identify Novel Elements of Knowledge with Word Embedding](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284567). PLOS ONE**. 18(6). [Code](https://github.com/DeyunYinWIPO/Novelty)
@@ -35,7 +36,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Working papers
 
-- Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2024), **[Trains of Thought: High-Speed Rail and Innovation in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422497), Industry and Innovation**. (Under review, corresponding author).
+- Sotaro Shibayama, Zhao Wu, Deyun Yin, Kazuki Yokota, (2025), [State of the Art of Novelty Indicators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5379973). SSRN.
 - Gema Lax MARTÍNEZ , Helena Saenz de JUANO-I-RIBES , **Deyun YIN**, Bruno Le FEUVRE, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **[Expanding the World Gender-Name Dictionary: WGND 2.0](https://www.wipo.int/publications/en/details.jsp?id=4554), WIPO working paper series 64**.
 - Ernest MIGUELEZ, Julio RAFFO, Christian CHACUA, Massimiliano CODA-ZABETTA, **Deyun YIN***, Francesco LISSONI, Gianluca TARASCONI (2019), **[Tied In: The Global Network of Local Innovation](https://www.wipo.int/publications/en/details.jsp?id=4472&plang=EN). WIPO Working Paper Series 58**. (corresponding author) 
 - **Deyun YIN**, Julio RAFFO, Ernest MIGUELEZ, Massimiliano CODA-ZABETTA, Christian CHACUA, Francesco LISSONI, Gianluca TARASCONI, **Identification and Analysis of Innovation Clusters based on Global Geocoding Data**, GEOINNO 2020. (is corresponding author)
