@@ -11,6 +11,7 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=0GW38KwAAAAJ). 
 
+- • Cheng Zhou, Deyun YIN*, Shaodan Zhou, Aruhan Bai, Xiaoxi Xiao (2026), [Lessons of Japan’s support on Basic Research and inspirations to China](https://bijiao.caixin.com/2026-03-10/102421546.html), Comparative Studies, 142, 118-130 (in Chinese)
 - Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2025), **[Trains of Thought: High-Speed Rail and Innovation in China](https://www.tandfonline.com/doi/full/10.1080/13662716.2025.2541679)**, ***Industry and Innovation**. 2541679.
 - Xin DAI, Jie TANG, **Deyun YIN** (2025), [**Science and City: Exploring science’s contribution to China’s urban technological innovation**](https://www.sciencedirect.com/science/article/pii/S1043951X25001191). **China Economic Review**. Vol 93. 102461.
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://www.nature.com/articles/s41558-024-01947-x)**, ***Nature Climate Change***, 14, 393–401 (corresponding author). [Code](https://github.com/DeyunYinWIPO/global_methane)
