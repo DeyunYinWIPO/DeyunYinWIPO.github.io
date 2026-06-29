@@ -9,7 +9,8 @@ redirect_from:
 
 |      Date       |                            Course                            |          |
 | :-------------: | :----------------------------------------------------------: | -------- |
-|     2024.11     | Technological Transfer and Commercialization of Scientific and Technological Outputs | MBA      |
+|     2025.12~     | Technological Management of Innovation in the Era of Intelligent Economy | MBA (Teaching evaluation: 98.86%)     |
+|     2024.11~     | Technological Transfer and Commercialization of Scientific and Technological Outputs | MBA      |
 |    2024.09~     |    Intellectual Property Economics and Management (HITSZ)    | Master   |
 |    2024.09~     |      Trademark, Brand and Regional Economy (Guangdong)       | All      |
 |    2023.12~     | The Economics of Money, Banking and Financial Market (HITSZ) | Master   |
