@@ -25,7 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (PICMET)**, 1–14. (corresponding author)
 
 ## Books & Reports
-
+-  Miguelez Ernest, Raffo Julio, Coda-Zabetta, Massimiliano, Chacua Christian, Deyun Yin, Lissoni Francesco, Gianluca Tarasconi (2025), [Creative ties: the Global Network of Local Innovation](https://www.elgaronline.com/edcollchap/book/9781035317882/chapter6.xml). In Handbook of Creative Regions, ed by Rafael Boix and Luciana Lazzeretti, Edward Elgar.
 - Jie Tang, **Deyun Yin**, Xin Dai (2023). **[Shenzhen’s High-Quality Development In The New Era](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=10199540&fromSubID=).** Beijing: China Social Sciences Press. 
 - **Deyun Yin,** Julio Raffo, Jie Tang (2022), **[Innovation ecosystem and catch-up in developing countries: Evidence from Shenzhen](https://www.wipo.int/publications/es/details.jsp?id=4624&plang=EN)**. WIPO Development Studies Series, World Intellectual Property Organization. Geneva.
 - WIPO (2022). [**World Intellectual Property Report 2022: The Direction of Innovation**](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-944-2022-en-world-intellectual-property-report-2022-the-direction-of-innovation.pdf). World Intellectual Property Organization. Geneva.
@@ -36,8 +36,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ## Working papers
-
 - Sotaro Shibayama, Zhao Wu, **Deyun Yin**, Kazuki Yokota, (2025), [State of the Art of Novelty Indicators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5379973). SSRN.
+- Deyun YIN*, Alvin Shijie DING, Xinyi NIE, Andrew PLUME, Carsten GUDERIAN, Local scientific knowledge sourcing and catch-up of urban innovation: evidence from China. 
 - Gema Lax MARTÍNEZ , Helena Saenz de JUANO-I-RIBES , **Deyun YIN**, Bruno Le FEUVRE, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **[Expanding the World Gender-Name Dictionary: WGND 2.0](https://www.wipo.int/publications/en/details.jsp?id=4554), WIPO working paper series 64**.
 - Ernest MIGUELEZ, Julio RAFFO, Christian CHACUA, Massimiliano CODA-ZABETTA, **Deyun YIN***, Francesco LISSONI, Gianluca TARASCONI (2019), **[Tied In: The Global Network of Local Innovation](https://www.wipo.int/publications/en/details.jsp?id=4472&plang=EN). WIPO Working Paper Series 58**. (corresponding author) 
 - **Deyun YIN**, Julio RAFFO, Ernest MIGUELEZ, Massimiliano CODA-ZABETTA, Christian CHACUA, Francesco LISSONI, Gianluca TARASCONI, **Identification and Analysis of Innovation Clusters based on Global Geocoding Data**, GEOINNO 2020. (is corresponding author)
