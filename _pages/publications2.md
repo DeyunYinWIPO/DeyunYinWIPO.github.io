@@ -11,7 +11,7 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=0GW38KwAAAAJ). 
 
-- • Cheng Zhou, Deyun YIN*, Shaodan Zhou, Aruhan Bai, Xiaoxi Xiao (2026), [Lessons of Japan’s support on Basic Research and inspirations to China](https://bijiao.caixin.com/2026-03-10/102421546.html), Comparative Studies, 142, 118-130 (in Chinese)
+- Cheng Zhou, **Deyun YIN**, Shaodan Zhou, Aruhan Bai, Xiaoxi Xiao (2026), [Lessons of Japan’s support on Basic Research and inspirations to China](https://bijiao.caixin.com/2026-03-10/102421546.html), **Comparative Studies**, 142, 118-130 (in Chinese)
 - Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2025), **[Trains of Thought: High-Speed Rail and Innovation in China](https://www.tandfonline.com/doi/full/10.1080/13662716.2025.2541679)**, ***Industry and Innovation**. 2541679.
 - Xin DAI, Jie TANG, **Deyun YIN** (2025), [**Science and City: Exploring science’s contribution to China’s urban technological innovation**](https://www.sciencedirect.com/science/article/pii/S1043951X25001191). **China Economic Review**. Vol 93. 102461.
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://www.nature.com/articles/s41558-024-01947-x)**, ***Nature Climate Change***, 14, 393–401 (corresponding author). [Code](https://github.com/DeyunYinWIPO/global_methane)
@@ -26,7 +26,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Books & Reports
 
-- Jie Tang, **Deyun Yin,** Xin Dai (2023). **[Shenzhen’s High-Quality Development In The New Era](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=10199540&fromSubID=).** Beijing: China Social Sciences Press. 
+- Jie Tang, **Deyun Yin**, Xin Dai (2023). **[Shenzhen’s High-Quality Development In The New Era](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=10199540&fromSubID=).** Beijing: China Social Sciences Press. 
 - **Deyun Yin,** Julio Raffo, Jie Tang (2022), **[Innovation ecosystem and catch-up in developing countries: Evidence from Shenzhen](https://www.wipo.int/publications/es/details.jsp?id=4624&plang=EN)**. WIPO Development Studies Series, World Intellectual Property Organization. Geneva.
 - WIPO (2022). [**World Intellectual Property Report 2022: The Direction of Innovation**](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-944-2022-en-world-intellectual-property-report-2022-the-direction-of-innovation.pdf). World Intellectual Property Organization. Geneva.
 - Jie Tang, Dai Xin & Qiang Pan ed. (2022). **Shenzhen’s Innovation Growth: Past and Future**. Beijing: China Social Sciences Press. (in Chinese)
@@ -37,7 +37,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Working papers
 
-- Sotaro Shibayama, Zhao Wu, Deyun Yin, Kazuki Yokota, (2025), [State of the Art of Novelty Indicators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5379973). SSRN.
+- Sotaro Shibayama, Zhao Wu, **Deyun Yin**, Kazuki Yokota, (2025), [State of the Art of Novelty Indicators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5379973). SSRN.
 - Gema Lax MARTÍNEZ , Helena Saenz de JUANO-I-RIBES , **Deyun YIN**, Bruno Le FEUVRE, Intan Hamdan-Livramento, Kaori Saito and Julio Raffo (2021), **[Expanding the World Gender-Name Dictionary: WGND 2.0](https://www.wipo.int/publications/en/details.jsp?id=4554), WIPO working paper series 64**.
 - Ernest MIGUELEZ, Julio RAFFO, Christian CHACUA, Massimiliano CODA-ZABETTA, **Deyun YIN***, Francesco LISSONI, Gianluca TARASCONI (2019), **[Tied In: The Global Network of Local Innovation](https://www.wipo.int/publications/en/details.jsp?id=4472&plang=EN). WIPO Working Paper Series 58**. (corresponding author) 
 - **Deyun YIN**, Julio RAFFO, Ernest MIGUELEZ, Massimiliano CODA-ZABETTA, Christian CHACUA, Francesco LISSONI, Gianluca TARASCONI, **Identification and Analysis of Innovation Clusters based on Global Geocoding Data**, GEOINNO 2020. (is corresponding author)

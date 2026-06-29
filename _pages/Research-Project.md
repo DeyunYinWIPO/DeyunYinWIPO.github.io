@@ -11,6 +11,7 @@ redirect_from:
 
 |      Date       |                           Project                            |
 | :-------------: | :----------------------------------------------------------: |
+| 2026.05~2026.12 | **Development of Shenzhen's Oversea Trademark and Brands**, CNIPA(Shenzhen) IP Protection Center  |
 | 2025.01~2027.12 | **Identifying Chinese breakthrough innovation patents with machine learning algorithms and its applications on study of regional breakthrough innovations**, National Natural Science Foundation of China (NSFC) |
 | 2024.05~2024.12 | **Guangdong Innovation Report 2024**, Guangdong Market Supervision and Administration Bureau |
 | 2024.03~2024.05 | **International course design for Trademark, Brand and Regional Economy**, <br>Guangzhou Trademark Examination Center, PI |
