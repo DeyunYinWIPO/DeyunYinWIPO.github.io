@@ -10,13 +10,13 @@ redirect_from:
 |  Date   |         Location          |                          Organizer                           |                            Event                             |
 | :-----: | :-----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2026.05 |      Wuhan, China      | Wuhan University | Global Tech Mining Conference (GTM)2026 
-| 2026.06 |  Shanghai, China |CEIBS   CEIBS Seminar Series| 
+| 2026.06 |  Shanghai, China |CEIBS   |  CEIBS Seminar Series| 
 | 2025.11 |  Beijing, China  Peking University   |2nd China Economics of Science Forum| 
-| 2025.05 |  Suzhou, China  | Nanjing University Suzhou Campus    |6th Annual Conferences of Information Analytics| 
-| 2025.06 |  Porto, Portugal European Institute for Advanced Studies in Management|   IPDMC 2025| 
-| 2024.10 Shanghai, China |Shanghai Jiaotong University    |1st China Economics of Science Forum| 
-| 2024.09 |      Berlin, Germany      | Fraunhofer Institute for Systems and Innovation Research (ISI) |                     STI Indicators 2024                      |
-| 2024.01 | Manchester, United Kindom |                   University of Manchester                   |    7th Geography of Innovation Conference (GEOINNO 2024)     |
+| 2025.05 |  Suzhou, China  | Nanjing University Suzhou Campus    | 6th Annual Conferences of Information Analytics| 
+| 2025.06 |  Porto, Portugal European Institute for Advanced Studies in Management |   IPDMC 2025| 
+| 2024.10 Shanghai, China |Shanghai Jiaotong University    | 1st China Economics of Science Forum| 
+| 2024.09 |      Berlin, Germany      | Fraunhofer Institute for Systems and Innovation Research (ISI) |   STI Indicators 2024     |
+| 2024.01 | Manchester, United Kindom |    University of Manchester       |    7th Geography of Innovation Conference (GEOINNO 2024)     |
 | 2023.11 |     Hong Kong, China      | HK Government, HK Trade Development Council & HK Design Center |                Business of IP Asia Forum 2023                |
 | 2023.09 |    Leiden, Netherland     |       European Network of Indicator Developers (ENID)        | The 27th International Conference on STI Indicators, STI 2023 |
 | 2022.01 |      Beijing, China       |       International Regional Studies Association (RSA)       |          Annual Meeting of RSA China Division 2022           |
