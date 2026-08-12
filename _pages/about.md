@@ -33,8 +33,9 @@ Dr. Yin also serves on the editorial board of **Humanities and Social Sciences C
 ## News!
 
 - 2026.08: Delivered a lecture titled "Technological Innovation and AI Agent Applications in the Era of the Intelligent Economy" for the Ministry of Industry and Information Technology (MIIT).
-- 2026.07: Our paper Measuring Risk in Science receive the Second Prize in Outstanding Achievement Award for Humanities and Social Sciences Research in Guangdong Province. 
-- 2026.06: Lectured on "AI Empowering Industrial Applications and Technology Transfer" for the MOST Senior Officials Training Program for Developing Countries for two days. 
+- 2026.07: Our paper **Measuring Risk in Science** receive the Second Prize in **Outstanding Achievement Award for Humanities and Social Sciences Research in Guangdong Province**. 
+- 2026.06: Lectured on "AI Empowering Industrial Applications and Technology Transfer" to the MOST Senior Officials Training Program for Developing Countries for two days. 
+- 2026.05: Receiving research funding for "**Shenzhen's Oversea Trademark and Brand development**" from CNIPA Shenzhen IP Protection Center. 
 
 
 ## Working & Education Background
