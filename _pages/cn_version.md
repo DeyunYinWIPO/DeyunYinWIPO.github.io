@@ -62,6 +62,8 @@ redirect_from:
 ## 学术成果
 
 ### 论文
+-  Weiwei Wu, Ruicong Xiao, **Deyun Yin**, Jiaxin Fu, Bo Yu (2027), 越多越好？大数据政策的非线性创新效应, Technological Forecasting and Social Change, Vol 234,124881.
+
 - 周程，**尹德云**，周少丹，阿儒涵，肖小溪(2026)，日本基础研究发展经验及对我国的启示，《比较》，142, 118-130。
 
 - Georgios Tsiachtsiras, **Deyun Yin**, Ernest Miguelez, Rosina Moreno (2025), 思想的列车：中国的高速铁路与创新, **Industry & Innovation**. 2541679 (通讯作者，ABS3*, IF=4.5, JCR Q1)
