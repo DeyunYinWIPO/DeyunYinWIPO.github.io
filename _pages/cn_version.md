@@ -84,7 +84,7 @@ redirect_from:
 
   - 该文作为全球首篇采用机器学习方法系统对中国专利发明者进行消歧的研究，针对2018年版CNIPA中国专利全库650万专利中的180万姓名进行消歧，划分了中国、日本和海外姓名，成功识别出400万中国发明者并做了分析，在美国国家经济研究所（NBER）和美国专利与商标局汇报。
 
-- 吴昭,屈付川, **尹德云**, 柴山创太郎 (2026), **创新变得保守了吗？基于大语言模型的风险测度**（英文）, 2026 4th International Conference on Management Innovation and Economy Development (MIED 2026)
+- 吴昭,屈付川, **尹德云**, 柴山创太郎 (2026), [**创新变得保守了吗？基于大语言模型的风险测度**（英文）](https://www.atlantis-press.com/proceedings/mied-26/126027613), 2026 4th International Conference on Management Innovation and Economy Development (MIED 2026)
 
 - Charles ZHANG，**尹德云**，元桥一之，**中国互联网公司的创新战略与技术赶超：来自专利文本挖掘的证据**（英文）, **PICMET** 2019 (EI检索, *为通讯作者)*
 
