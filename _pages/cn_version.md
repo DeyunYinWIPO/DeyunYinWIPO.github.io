@@ -248,7 +248,9 @@ redirect_from:
 | 2018.11~ | Research Policy, China Economic Review, Scientometrics, Regional Studies, Technology Forcasting and Social Change, Scientometrics等杂志审稿人 |
 
 ###  社会培训
-- 2026.09  
+
+- 2026.09  工信部中国中小企业发展促进中心  AI智能体前沿应用与治理
+- 2026.09  四川省经信厅                  金融赋能技术转移与科技成果转化
 - 2026.08 工信部新闻宣传中心           拥抱AI智能体：智能经济时代的技术创新之路
 - 2026.06 科技部发展中国家高级官员      AI赋能产业应用与技术转化（主讲） 
 - 2026.05 重庆市司法系统领导干部        AI智能体赋能产业发展
