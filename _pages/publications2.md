@@ -11,9 +11,9 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=0GW38KwAAAAJ). 
 
-- Weiwei Wu, Ruicong Xiao, **Deyun Yin**, Jiaxin Fu, Bo Yu (2027), [The more the better? The nonlinear innovation effect of the big data policy](https://www.sciencedirect.com/science/article/pii/S0040162526003586?ref=pdf_download&fr=RR-2&rr=a419d676f942cbac), Technological Forecasting and Social Change, Vol 234,124881.
+- Weiwei Wu, Ruicong Xiao, **Deyun Yin**, Jiaxin Fu, Bo Yu (2027), [The more the better? The nonlinear innovation effect of the big data policy](https://www.sciencedirect.com/science/article/pii/S0040162526003586?ref=pdf_download&fr=RR-2&rr=a419d676f942cbac), **Technological Forecasting and Social Change(TSFC)**, Vol 234,124881.
 - Cheng Zhou, **Deyun YIN**, Shaodan Zhou, Aruhan Bai, Xiaoxi Xiao (2026), [Lessons of Japan’s support on Basic Research and inspirations to China](https://bijiao.caixin.com/2026-03-10/102421546.html), **Comparative Studies**, 142, 118-130 (in Chinese)
-- Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2025), **[Trains of Thought: High-Speed Rail and Innovation in China](https://www.tandfonline.com/doi/full/10.1080/13662716.2025.2541679)**, ***Industry and Innovation**. 2541679.
+- Georgios TSIACHTSIRAS, **Deyun YIN**, Ernest MIGUELEZ, Rosina MORENO (2025), **[Trains of Thought: High-Speed Rail and Innovation in China](https://www.tandfonline.com/doi/full/10.1080/13662716.2025.2541679)**, **Industry and Innovation**. 2541679.
 - Xin DAI, Jie TANG, **Deyun YIN** (2025), [**Science and City: Exploring science’s contribution to China’s urban technological innovation**](https://www.sciencedirect.com/science/article/pii/S1043951X25001191). **China Economic Review**. Vol 93. 102461.
 - Jingjing JIANG, **Deyun YIN**, Zhuoluo SUN, Bin YE, Nan ZHOU (2024), **[Global innovative trend of methane abatement technologies and widening mismatch with methane emissions](https://www.nature.com/articles/s41558-024-01947-x)**, ***Nature Climate Change***, 14, 393–401 (corresponding author). [Code](https://github.com/DeyunYinWIPO/global_methane)
   - Reported by Nature Briefing: Jingjing JIANG & **Deyun YIN** (2024), **[Trends in the global invention and international diffusion of methane abatement technologies](https://www.nature.com/articles/s41558-024-01948-w)**, Nature Portfolio. 
@@ -23,6 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - Sotaro SHIBAYAMA, **Deyun YIN**, Kuniko MATSUMOTO (2021). **[Measuring novelty in science with word embedding](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254034) PLOS ONE**, 16(7). [Code](https://github.com/DeyunYinWIPO/Novelty)
 - **Deyun YIN**, Kazuyuki MOTOHASHI, Jianwei DANG (2020). **[Large-scale Name Disambiguation of Chinese Patent Inventors (1985-2016)](https://link.springer.com/article/10.1007/S11192-019-03310-W), Scientometrics**, 122, 765–790.  
   - The first paper disambiguates full CNIPA Inventor databases with large-scale training and testing data and high accuracy. As result, 4 million unique inventors are identified from 1.8 million Chinese names. 
+- Zhao Wu, Fuchuan Qu, **Deyun Yin**, Sotaro Shibayama (2026), Is Innovation Becoming More Conservative? An LLM Framework for Quantifying Risk, 2026 4th International Conference on Management Innovation and Economy Development (MIED 2026)
 - Charles ZHANG, Tsukioka, KOICHI, **Deyun YIN**, & Kazuyuki MOTOHASHI. (2019). **[Innovation Strategy and Technological Catch-Up of Chinese Internet Giants: Evidence Based on Patent Data](https://ieeexplore.ieee.org/abstract/document/8893774/), 2019 Portland International Conference on Management of Engineering and Technology (PICMET)**, 1–14. (corresponding author)
 
 ## Books & Reports
